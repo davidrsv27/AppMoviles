@@ -1,0 +1,11 @@
+<resources>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="rbPerro">Perro</string>
+    <string name="rbGato">Gato</string>
+    <string name="tvTipo">Tipo</string>
+    <string name="etNombreMascota"></string>
+    <string name="app_name">Mi mascota</string>
+    <string name="tvMiSuperMascota">Mi Super Mascota</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="tvNombreMascota">Nombre de mascota</string>
+</resources>
